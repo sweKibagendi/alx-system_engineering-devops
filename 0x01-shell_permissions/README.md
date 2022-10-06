@@ -6,3 +6,4 @@ am-iam_betty - switches user to user betty
 5-execute - adds execute permission to owner
 6-multiple_permissions - adds execution permission to owner and groups and read to other users
 7-everybody - adds execution permission to owner, groups, and other users
+8-James_Bond - adds all rights to other users only
