@@ -10,3 +10,4 @@ am-iam_betty - switches user to user betty
 9-John_Doe - sets mode of hello file to 753
 10-mirror_permissions - sets the mode of the file hello the same as olleh’s mode
 11-directories_permissions - adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+13-change_group - changes group owners to school of file hello
