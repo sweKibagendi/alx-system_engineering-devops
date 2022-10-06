@@ -4,3 +4,4 @@ am-iam_betty - switches user to user betty
 3-new_owner - changes owner of hello file to betty
 4-empty - creates an empty file
 5-execute - adds execute permission to owner
+6-multiple_permissions - adds execution permission to owner and groups and read to other users
