@@ -8,3 +8,4 @@ am-iam_betty - switches user to user betty
 7-everybody - adds execution permission to owner, groups, and other users
 8-James_Bond - adds all rights to other users only
 9-John_Doe - sets mode of hello file to 753
+10-mirror_permissions - sets the mode of the file hello the same as olleh’s mode
