@@ -1,3 +1,4 @@
 am-iam_betty - switches user to user betty
 1-who_am_i - prints username of current user
 2-groups - prints  groups to which a userbelongs
+3-new_owner - changes owner of hello file to betty
